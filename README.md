@@ -18,3 +18,5 @@ Every branch ги вклучува сите разгранувања од сек
 3). user=[Andrea,andrea123,null], allUsers=user<br/>
 4). user=[Andrea,andrea123, andrea.ristevska@hotmail.com], allUsers=user<br/>
 5). user=[Andrea,andrea123, andrearistevska], allUsers=user<br/>
+На сликата е претсавена табелата:
+![](every_branch_tabela.png)
