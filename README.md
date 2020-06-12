@@ -20,3 +20,4 @@ Every branch ги вклучува сите разгранувања од сек
 5). user=[Andrea,andrea123, andrearistevska], allUsers=user<br/>
 На сликата е претсавена табелата:
 ![](every_branch_tabela.png)
+### Тест случаи според критериумот Multiple conditions
