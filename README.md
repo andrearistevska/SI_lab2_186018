@@ -22,6 +22,6 @@ Every branch ги вклучува сите разгранувања од сек
 ![](every_branch_tabela.png)
 ### Тест случаи според критериумот Multiple conditions
 Multiple conditions се прави во кодот таму каде што имаме во услов две или повеќе можности. Тест случаите и комбинациите за условите кои ги искористив ги има во следните табели:
-![](multiple_1.png) ![](multiple_2.png) ![](multiple_3.png)
+![](multiple_1.png) ![](multiple2.png) ![](multiple3.png)
 ### Објаснување на напишаните unit tests
 Ги поставив тест случаите во кодот за Every branch и Мultiple conditions, кој се наоѓа во src/test/java и за сите тест случаи кодот ми работеше, така што успешно го спроведов тестирањето.
