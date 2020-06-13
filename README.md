@@ -22,4 +22,4 @@ Every branch ги вклучува сите разгранувања од сек
 ![](every_branch_tabela.png)
 ### Тест случаи според критериумот Multiple conditions
 Multiple conditions се прави во кодот таму каде што имаме во услов две или повеќе можности. Тест случаите за условите кои ги искористив ги има во следните табели:
-![](multiple_1.png) ![](multiple_2.png)
+![](multiple_1.png) ![](multiple_2.png) ![](multiple_3.png)
